@@ -1,0 +1,28 @@
+body
+{
+    background-color: #bdc29b;
+}
+
+h1
+{
+    text-align: center;
+}
+
+.desc
+{
+    text-align: center;
+}
+
+table
+{
+    height: 100px;
+    width: 1000px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.desc2
+{
+    padding-left: 50px;
+    padding-right: 250px;
+}
